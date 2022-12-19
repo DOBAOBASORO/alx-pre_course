@@ -1,3 +1,3 @@
-Pdated the README.md file
+Updated the README.md file
 
 My first readme
